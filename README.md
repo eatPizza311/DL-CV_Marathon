@@ -4,3 +4,5 @@
 > 學習影像處理基礎，並熟悉 OpenCV 寫作方式以及如何前處理
 
 1. [OpenCV 簡介 + 顯示圖片](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day001_read_image_HW.ipynb) — 入門電腦視覺領域的重要套件: OpenCV
+2. [Color presentation 介紹 (RGB, LAB, HSV)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day002_change_color_space_HW.ipynb) — 淺談圖片不同的表示方式
+3. [顏色相關的預處理 (改變亮度, 色差)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day003_color_spave_op_HW.ipynb) — 透過圖片不同的表示方式實作修圖效果

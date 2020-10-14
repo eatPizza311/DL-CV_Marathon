@@ -9,3 +9,5 @@
 4. [以圖片為例做矩陣操作 (翻轉, 縮放, 平移)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day004_geometric_transform_HW.ipynb) — 淺談基礎的幾合變換: 翻轉 / 縮放 / 平移
 5. [透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day005_draw_HW.ipynb) — 實作 OpenCV 的小畫家功能
 6. [affine transformation 概念與實作](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day006_affine_HW.ipynb) — 仿射轉換的入門與實作: affine transform
+7. [perspective transformation 概念與實作](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day007_perspective.ipynb) — 視角轉換的入門與實作: perspective transform
+8. [Filter 操作 (Sobel edge detect, Gaussian Blur)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day008_sobel_gaussian_blur_HW.ipynb) — 初探邊緣檢測與模糊圖片操作: 了解 filter 的運用

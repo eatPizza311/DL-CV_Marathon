@@ -11,3 +11,9 @@
 6. [affine transformation 概念與實作](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day006_affine_HW.ipynb) — 仿射轉換的入門與實作: affine transform
 7. [perspective transformation 概念與實作](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day007_perspective.ipynb) — 視角轉換的入門與實作: perspective transform
 8. [Filter 操作 (Sobel edge detect, Gaussian Blur)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day008_sobel_gaussian_blur_HW.ipynb) — 初探邊緣檢測與模糊圖片操作: 了解 filter 的運用
+9. [SIFT 介紹與實作 (feature extractor)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day009_sift.ipynb) — SIFT: 介紹與實作經典的傳統特徵
+10. [SIFT 其他應用 (keypoint matching)](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day010_sift_brute_force_match.ipynb) — SIFT 案例分享: 特徵配對
+
+# 2. 電腦視覺深度學習基礎
+> 打好卷積神經網路的概念，並了解 CNN 各種代表性的經典模型
+11. [CNN分類器架構：卷積層](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day011_CNN-count_parameter_HW.ipynb) — 卷積是CNN的核心，了解卷積如何運行 就能幫助我們理解CNN的原理

@@ -17,3 +17,4 @@
 # 2. 電腦視覺深度學習基礎
 > 打好卷積神經網路的概念，並了解 CNN 各種代表性的經典模型
 11. [CNN分類器架構：卷積層](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day011_CNN-count_parameter_HW.ipynb) — 卷積是CNN的核心，了解卷積如何運行 就能幫助我們理解CNN的原理
+12. [CNN分類器架構：步長、填充](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day012_Strides%20and%20Padding_HW.ipynb) — 填充與步長是CNN中常見的超參數， 了解如何設置能幫助我們架構一個CNN Model

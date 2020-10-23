@@ -19,3 +19,4 @@
 11. [CNN分類器架構：卷積層](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day011_CNN-count_parameter_HW.ipynb) — 卷積是CNN的核心，了解卷積如何運行 就能幫助我們理解CNN的原理
 12. [CNN分類器架構：步長、填充](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day012_Strides%20and%20Padding_HW.ipynb) — 填充與步長是CNN中常見的超參數， 了解如何設置能幫助我們架構一個CNN Model
 13. [CNN分類器架構：池化層、全連接層](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day013_Pooling_HW.ipynb) — 池化層時常出現於CNN結構中，而FC層則會接在模型輸出端， 了解如兩者用途能幫助我們架構一個CNN Model
+14. [CNN分類器架構：Batch Normalization](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day014_Batch%20Normalization_HW.ipynb) — Batch Normalization出現在各種架構中， 了解BN層能解決怎樣的問題是我們本章的重點

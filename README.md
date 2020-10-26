@@ -20,3 +20,5 @@
 12. [CNN分類器架構：步長、填充](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day012_Strides%20and%20Padding_HW.ipynb) — 填充與步長是CNN中常見的超參數， 了解如何設置能幫助我們架構一個CNN Model
 13. [CNN分類器架構：池化層、全連接層](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day013_Pooling_HW.ipynb) — 池化層時常出現於CNN結構中，而FC層則會接在模型輸出端， 了解如兩者用途能幫助我們架構一個CNN Model
 14. [CNN分類器架構：Batch Normalization](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day014_Batch%20Normalization_HW.ipynb) — Batch Normalization出現在各種架構中， 了解BN層能解決怎樣的問題是我們本章的重點
+15. [訓練一個CNN分類器：Cifar10為例](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day015_Cifar_HW.ipynb) — 綜合上述CNN基本觀念， 我們如何結合這些觀念打造一個CNN 模型
+16. [如何使用Data Augmentation](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day016_Image%20Augmentation_HW.ipynb) — 訓練模型時常常會遇到資料不足的時候，適當的使用Image Augmentation能提升模型的泛化性

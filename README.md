@@ -22,3 +22,6 @@
 14. [CNN分類器架構：Batch Normalization](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day014_Batch%20Normalization_HW.ipynb) — Batch Normalization出現在各種架構中， 了解BN層能解決怎樣的問題是我們本章的重點
 15. [訓練一個CNN分類器：Cifar10為例](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day015_Cifar_HW.ipynb) — 綜合上述CNN基本觀念， 我們如何結合這些觀念打造一個CNN 模型
 16. [如何使用Data Augmentation](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day016_Image%20Augmentation_HW.ipynb) — 訓練模型時常常會遇到資料不足的時候，適當的使用Image Augmentation能提升模型的泛化性
+17. [深度學習理論與實作：Classic CNN Backbone](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day018_Vgg16_HW.ipynb) — 綜合之前所學的CNN觀念，認識第一個引領影像研究方向朝向深度學習的模型
+18. 同上
+19. [InceptionV1-V3](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day019_Inception_HW.ipynb) — Inception module提供大家不同於以往的思考方式，將模型的參數量減少，效能卻提升了許多

@@ -25,3 +25,5 @@
 17. [深度學習理論與實作：Classic CNN Backbone](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day018_Vgg16_HW.ipynb) — 綜合之前所學的CNN觀念，認識第一個引領影像研究方向朝向深度學習的模型
 18. 同上
 19. [InceptionV1-V3](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day019_Inception_HW.ipynb) — Inception module提供大家不同於以往的思考方式，將模型的參數量減少，效能卻提升了許多
+20. [ResNetV1-V2、InceptionV4、Inception-ResNet](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day020_Classic%20CNN-ResNet%E3%80%81InceptionV4%E3%80%81Inception-ResNet_HW.ipynb) — 首次超越人類分類正確率的模型，Residual module也影響了後來許多的模型架構
+21. [Transfer learning](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day021_Transfer%20Learning_HW.ipynb) — 學習如何利用前人的知識輔助自己訓練與跨領域學習的方法

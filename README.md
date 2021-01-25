@@ -27,3 +27,7 @@
 19. [InceptionV1-V3](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day019_Inception_HW.ipynb) — Inception module提供大家不同於以往的思考方式，將模型的參數量減少，效能卻提升了許多
 20. [ResNetV1-V2、InceptionV4、Inception-ResNet](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day020_Classic%20CNN-ResNet%E3%80%81InceptionV4%E3%80%81Inception-ResNet_HW.ipynb) — 首次超越人類分類正確率的模型，Residual module也影響了後來許多的模型架構
 21. [Transfer learning](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day021_Transfer%20Learning_HW.ipynb) — 學習如何利用前人的知識輔助自己訓練與跨領域學習的方法
+22. [Breaking Captchas with a CNN](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day022_Captcha_HW.ipynb) — 了解如何使用CNN+CTC判定不定長度字串
+
+# 3. CNN 應用案例學習
+23. [Object detection原理](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day023_OD_theory_HW.ipynb) — 了解Object Detection出現的目的與基本設計原理

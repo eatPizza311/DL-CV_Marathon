@@ -30,4 +30,6 @@
 22. [Breaking Captchas with a CNN](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day022_Captcha_HW.ipynb) — 了解如何使用CNN+CTC判定不定長度字串
 
 # 3. CNN 應用案例學習
+> 學習目前最常使用的 CNN 應用案例：YOLO 物件偵測實務完全上手
 23. [Object detection原理](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day023_OD_theory_HW.ipynb) — 了解Object Detection出現的目的與基本設計原理
+24. [Object detection基本介紹、演進](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day024_OD_development_HW.ipynb) — 了解Object Detection一路發展下來，是如何演進與進步

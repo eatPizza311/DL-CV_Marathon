@@ -33,3 +33,4 @@
 > 學習目前最常使用的 CNN 應用案例：YOLO 物件偵測實務完全上手
 23. [Object detection原理](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day023_OD_theory_HW.ipynb) — 了解Object Detection出現的目的與基本設計原理
 24. [Object detection基本介紹、演進](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day024_OD_development_HW.ipynb) — 了解Object Detection一路發展下來，是如何演進與進步
+25. [Region Proposal、IOU概念](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day025_IOU_HW.ipynb) — IOU是貫穿Object Detection的一個重要觀念，了解如何計算IOU對了解Object Detection中許多重要步驟會很有幫助

@@ -36,4 +36,4 @@
 25. [Region Proposal、IOU概念](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day025_IOU_HW.ipynb) — IOU是貫穿Object Detection的一個重要觀念，了解如何計算IOU對了解Object Detection中許多重要步驟會很有幫助
 26. [RPN架構介紹](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day026_RPN_HW.ipynb) — RPN是Faster RCNN成功加速的關鍵，了解RPN便能深入認識Faster RCNN
 27. [Bounding Box Regression原理](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day027_BBOX%20Regression_HW.ipynb) — 所有的Object Detection模型都需要做Bounding Box的Regression，了解其是如何運作的能幫助我們更認識Object Detection
-28 [Non-Maximum Suppression (NMS)原理](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day028_NMS_HW.ipynb) — 所有的Object Detection模型都有Non Maximum Suppression的操作，了解其是如何運作的能幫助我們更認識Object Detection
+28. [Non-Maximum Suppression (NMS)原理](https://github.com/eatPizza311/DL-CV_Marathon/blob/main/homework/Day028_NMS_HW.ipynb) — 所有的Object Detection模型都有Non Maximum Suppression的操作，了解其是如何運作的能幫助我們更認識Object Detection
